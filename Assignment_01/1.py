@@ -1,7 +1,8 @@
 def calculate_fibonacci_sums():
 
     # maximum limit for numbers
-    MAX_VAL = 4*1000000
+    # MAX_VAL = 4*1000000
+    MAX_VAL = 34
 
     #variables to store odd and even sums
     ODD_SUM = 0
