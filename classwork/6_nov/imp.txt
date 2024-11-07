@@ -1,0 +1,5 @@
+1) downsampling of audio samples
+2) reduce the cutoff frequency
+3) noise reduction
+4) power spectral analysis
+5) RPM
